@@ -1,0 +1,814 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"></meta>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script>
+		$(document).ready(function(){
+			$("#hide").click(function(){
+				$(".fixed-sidebar").hide();
+			});
+			
+			$("#show").click(function(){
+				$(".fixed-sidebar").show();
+			});
+			$("#show").click(function(){
+				$(".buttonh").show();
+				$(".buttonshow").hide();
+			});
+			$("#hide").click(function(){
+				$(".buttonshow").show();
+				$(".buttonh").show();
+				
+			});
+		});
+		</script>
+  <title>What is Static Content?</title>
+
+  <link rel="icon" type="image/png" href="https://www.maxcdn.com/blog/wp-content/themes/maxcdnv5/img/png/favicon.png">
+
+  
+<!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Static content is web content that stays the same regardless of who requests it. Learn more with this visual and text-based explanation."/>
+<link rel="canonical" href="https://www.maxcdn.com/one/visual-glossary/static-content/" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='https://www.maxcdn.com/one//s.w.org' />
+<link rel='https://api.w.org/' href='https://www.maxcdn.com/one/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.maxcdn.com/one/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.maxcdn.com%2Fone%2Fvisual-glossary%2Fstatic-content%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.maxcdn.com/one/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.maxcdn.com%2Fone%2Fvisual-glossary%2Fstatic-content%2F&#038;format=xml" />
+
+  <!-- Social Media Tags -->
+
+  <!-- OpenGraph -->
+
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="What is Static Content?">
+  <meta property="og:description" content="">
+  <meta property="og:url" content="https://www.maxcdn.com/one/visual-glossary/static-content/?">
+
+  <!-- Twitter Cards (Summary Type) -->
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@maxcdn">
+  <meta name="twitter:title" content="What is Static Content?">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:image" content="https://www.maxcdn.com/assets/logos/maxcdn-logo-circle-small.png">
+  <meta name="twitter:url" content="https://www.maxcdn.com/one/visual-glossary/static-content/?">
+
+  <!-- Swiftype Content Tag -->
+
+  <meta class="swiftype" name="contentType" data-type="string" content="one" />
+<meta class="swiftype" name="pageDescription" data-type="string" content="Static content is web content that stays the same regardless of who requests it. Learn more with this visual and text-based explanation.">
+  <!-- Stylesheet -->
+
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <!--<link rel="stylesheet" href="https://www.maxcdn.com/one/wp-content/themes/maxcdn_one/assets/css/style.css"> -->
+  <link rel="stylesheet" href="https://www.maxcdn.com/one/wp-content/themes/maxcdn_one/assets/css/style.css">
+
+  <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+
+
+<script>
+var _prum = [['id', '53b1a760abe53d9c14b25c9e'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = 'https://rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+
+<!-- MixPanel -->
+<script>(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);mixpanel.init("65fc1437db75fc33208c1b7bb753f65e");</script>
+
+<!-- Captcha Recaptcha -->
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+  <link rel="alternate" type="application/rss+xml" title="MaxCDN Support Site Feed" href="https://www.maxcdn.com/one/feed/">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400|Arimo:400|Quattrocento+Sans:400&subset=latin" type="text/css" /><link rel="stylesheet" href="https://www.maxcdn.com/one/wp-content/cache/css/static/121e50c35c198fc223792a5de87ca43f.css" type="text/css" /><script type="text/javascript">
+(function (w, d, u) {
+    if(w.njQuery === u){
+        w.bindNextendQ = [];
+    
+        function pushToReady(x) {
+            w.bindNextendQ.push([alias.handler,"ready", x]);
+        }
+        
+        function pushToLoad(x) {
+            w.bindNextendQ.push([alias.handler,"load", x]);
+        }
+
+        var alias = {
+            handler: w,
+            ready: pushToReady,
+            load: pushToLoad
+        }
+
+        w.njQuery = function (handler) {
+            alias.handler = handler;
+            return alias;
+        }
+    }
+})(window, document);
+              </script></head>
+<body class="post-template-default single single-post postid-3511 single-format-standard static-content">
+
+  <!--[if lt IE 7]><div class="alert">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+  <div id="mobile-menu-holder">
+	<form class="inside-field-labels">
+		    <label class="input">
+				<span>Search ...</span>
+			    <input id="mobile-nav-search" type="text" autocomplete="off" autocorrect="off" autocapitalize="off"/>
+			</label>
+		    <input type="submit" value="" class="fa-input"/>
+		</form>
+  <ul class="mobile-menu">
+    <li class="dropdown">
+            <a href="" class="dropdown-toggle" data-toggle="dropdown">
+              + Support&nbsp;<i class="fa fa-angle-down"></i>
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="https://www.maxcdn.com/one/getting-started/" title="Getting Started with MaxCDN">Getting Started</a>
+                </li>
+                <li>
+                    <a href="https://www.maxcdn.com/one/tutorial/" title="MaxCDN One Tutorials">Tutorials</a>
+                </li>
+                <li>
+                    <a href="https://www.maxcdn.com/one/faq/" title="MaxCDN Frequently Asked Questions">FAQs</a>
+                </li>
+                <li>
+                    <a href="https://www.maxcdn.com/support/" title="Contact MaxCDN Support">Contact Support</a>
+               </li>
+                <li>
+                  <a href="http://maxcdn.uservoice.com" title="Request a MaxCDN Product Feature or Improvement">Feature Request</a>
+                </li>
+                <li>
+                  <a href="http://status.maxcdn.com/" title="MaxCDN Network Status">Network Status</a>
+                </li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="" class="dropdown-toggle" data-toggle="dropdown">
+              + Development&nbsp;<i class="fa fa-angle-down"></i>
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="https://www.maxcdn.com/one/developer/" alt="MaxCDN Developer Resources">Resources</a>
+              </li>
+              <li>
+                <a href="https://www.maxcdn.com/one/developer/submit-a-demo/" alt="Submit a MaxCDN Demo Project">Submit a Demo</a>
+              </li>
+              <li>
+                <a href="http://docs.maxcdn.com/" alt="MaxCDN API Docs">API Docs</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="http://cp.maxcdn.com/" alt="MaxCDN Control Panel Login">Log In</a>
+          </li>
+          <li>
+            <a href="https://www.stackpath.com/pricing?ref=maxcdn&utm_source=maxcdn_one&utm_campaign=max_redirect&utm_medium=test_account" alt="Try StackPath">Try StackPath</a>
+          </li>
+  </ul>
+</div>
+<div id="menu-slide-right">
+    <nav>
+      <div class="row position-relative main-menu-holder">
+        <a href="https://www.maxcdn.com/one/" title="Go to MaxCDN One Homepage"><div class="max-one-logo"></div></a>
+        <ul class="inline-list main-menu no-mobile">
+          <li class="dropdown">
+            <a href="" class="dropdown-toggle" data-toggle="dropdown">
+              + Support&nbsp;<i class="fa fa-angle-down"></i>
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="https://www.maxcdn.com/one/getting-started/" title="Getting Started with MaxCDN">Getting Started</a>
+                </li>
+                <li>
+                    <a href="https://www.maxcdn.com/one/tutorial/" title="MaxCDN One Tutorials">Tutorials</a>
+                </li>
+                <li>
+                    <a href="https://www.maxcdn.com/one/faq/" title="MaxCDN Frequently Asked Questions">FAQs</a>
+                </li>
+                <li>
+                    <a href="https://www.maxcdn.com/support/" title="Contact MaxCDN Support">Contact Support</a>
+                </li>
+                <li>
+                  <a href="http://maxcdn.uservoice.com" title="Request a MaxCDN Product Feature or Improvement">Feature Request</a>
+                </li>
+                <li>
+                  <a href="http://status.maxcdn.com/" title="MaxCDN Network Status">Network Status</a>
+                </li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="" class="dropdown-toggle" data-toggle="dropdown">
+              + Development&nbsp;<i class="fa fa-angle-down"></i>
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="https://www.maxcdn.com/one/developer/" alt="MaxCDN Developer Resources">Resources</a>
+              </li>
+              <li>
+                <a href="https://www.maxcdn.com/one/developer/submit-a-demo/" alt="Submit a MaxCDN Demo Project">Submit a Demo</a>
+              </li>
+              <li>
+                <a href="http://docs.maxcdn.com/" alt="MaxCDN API Docs">API Docs</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="http://cp.maxcdn.com/" alt="MaxCDN Control Panel Login">Log In</a>
+          </li>
+          <li>
+            <a href="https://www.maxcdn.com/one/test-account/" alt="MaxCDN Free Trial Sign Up">Free Test Account</a>
+          </li>
+          <li>
+            <a href="https://www.maxcdn.com" alt="MaxCDN Homepage">Back to MaxCDN</a>
+          </li>
+          <li>
+            <a href="#" id="open-search-trigger" alt="Reveal Search Form"><i class="fa fa-search"></i></a>
+          </li>
+        </ul>
+        <form class="hidden nav-search-form inside-field-labels">
+          <label class="input" for="">
+                <span>Search ...</span>
+                <input type="text" id="top-nav-search" />
+          </label>
+          <p class="text-center small-copy margin-top-tiny"><a href="#" id="close-search-form">Cancel</a></p>
+        </form>
+        <p id="mobile-menu-trigger" class="no-large no-medium">Menu</p>
+      </div>
+    </nav>
+<div class="clear"></div>
+
+<!--Sidebar widget area-->
+<section class="widget text-6 widget_text"><div class="widget-inner">			<div class="textwidget"><div class="plus-show">
+		<button id="show" class="buttonshow right-menu-show">Browse Articles</button>
+	</div>
+	
+<div class="fixed-sidebar zindex9999">
+	<button id="hide" class="buttonh right-menu-hide">Browse Articles</button>
+	<div class="acmenuw"><div id="nextend-accordion-menu-uniquec565869" class="">
+  <div class="nextend-accordion-menu-inner ">
+        <div class="nextend-accordion-menu-inner-container">
+    <dl class="level1 ">
+  <dt class="level1 nextend-nav-3236 parent   first" data-menuid="3236">
+    <span class="outer">
+      <span class="inner">
+        <a><span>Pull</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level1 nextend-nav-3236 parent   first">
+  <dl class="level2 ">
+  <dt class="level2 nextend-nav-3244 notparent   first" data-menuid="3244">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/how-to-create-a-pull-zone/"><span>How to Create a Pull Zone</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3244 notparent   first">
+  </dd>  <dt class="level2 nextend-nav-3245 notparent  " data-menuid="3245">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tag/wordpress-integration/"><span>Wordpress Integration</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3245 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3275 notparent  " data-menuid="3275">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/filter/?action=sort&tag=drupal&tag=joomla&tag=invision-power-board&tag=magento&tag=opencart&tag=prestashop&tag=social-engine&tag=vbulletin&tag=xcart"><span>Other CMS</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3275 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3246 notparent  " data-menuid="3246">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/custom-cdn-integration/"><span>Custom CDN Integration</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3246 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3243 notparent  " data-menuid="3243">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/pull-zone-settings/"><span>Pull Zone Settings</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3243 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3242 notparent  " data-menuid="3242">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/pull-zone-security/"><span>Pull Zone Security</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3242 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3281 notparent  " data-menuid="3281">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/cache-busting/"><span>Cache-Busting</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3281 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3302 notparent   last" data-menuid="3302">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/how-to-use-cdn-with-webfonts/"><span>How to use CDN with Webfonts</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3302 notparent   last">
+  </dd></dl></dd>  <dt class="level1 nextend-nav-3237 parent  " data-menuid="3237">
+    <span class="outer">
+      <span class="inner">
+        <a><span>Push</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level1 nextend-nav-3237 parent  ">
+  <dl class="level2 ">
+  <dt class="level2 nextend-nav-3249 notparent   first" data-menuid="3249">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/create-a-push-zone/"><span>Create a Push Zone</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3249 notparent   first">
+  </dd>  <dt class="level2 nextend-nav-3268 notparent  " data-menuid="3268">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/connect-to-push-zone/"><span>Connect to Push Zone</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3268 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3248 notparent  " data-menuid="3248">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/push-zone-settings/"><span>Push Zone Settings</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3248 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3254 notparent  " data-menuid="3254">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/reset-push-ftp-password/"><span>Reset Push FTP Password</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3254 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3247 notparent   last" data-menuid="3247">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/push-zone-security/"><span>Push Zone Security</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3247 notparent   last">
+  </dd></dl></dd>  <dt class="level1 nextend-nav-3238 parent  " data-menuid="3238">
+    <span class="outer">
+      <span class="inner">
+        <a><span>VOD</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level1 nextend-nav-3238 parent  ">
+  <dl class="level2 ">
+  <dt class="level2 nextend-nav-3253 notparent   first" data-menuid="3253">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/create-a-vod-zone/"><span>Create a VOD Zone</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3253 notparent   first">
+  </dd>  <dt class="level2 nextend-nav-3252 notparent  " data-menuid="3252">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/connect-to-vod-zone/"><span>Connect to VOD Zone</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3252 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3250 notparent  " data-menuid="3250">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/get-vod-zone-embed-code/"><span>Get VOD Zone Embed Code</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3250 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3251 notparent   last" data-menuid="3251">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/reset-vod-ftp-password/"><span>Reset VOD FTP Password</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3251 notparent   last">
+  </dd></dl></dd>  <dt class="level1 nextend-nav-3267 parent  " data-menuid="3267">
+    <span class="outer">
+      <span class="inner">
+        <a><span>EdgeRules</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level1 nextend-nav-3267 parent  ">
+  <dl class="level2 ">
+  <dt class="level2 nextend-nav-3257 notparent   first" data-menuid="3257">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/edge-rules-recipes/"><span>Edge Rules Recipes</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3257 notparent   first">
+  </dd>  <dt class="level2 nextend-nav-3259 notparent  " data-menuid="3259">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/edgerules-conditionals/"><span>EdgeRules Conditionals</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3259 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3260 notparent  " data-menuid="3260">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/edgerules-purge-cache/"><span>EdgeRules Purge Cache</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3260 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3261 notparent  " data-menuid="3261">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/edgerules-priority/"><span>EdgeRules Priority</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3261 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3262 notparent  " data-menuid="3262">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/edgerules-status/"><span>EdgeRules Status</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3262 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3263 notparent  " data-menuid="3263">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/edgerules-features/"><span>EdgeRules Features</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3263 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3264 notparent  " data-menuid="3264">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/edgerules-location/"><span>EdgeRules Location</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3264 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3265 notparent  " data-menuid="3265">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/edgerules-match-type/"><span>EdgeRules Match Type</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3265 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3266 notparent   last" data-menuid="3266">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/delete-edge-rule/"><span>Delete an Edge Rule</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3266 notparent   last">
+  </dd></dl></dd>  <dt class="level1 nextend-nav-3272 parent  " data-menuid="3272">
+    <span class="outer">
+      <span class="inner">
+        <a><span>Debugging</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level1 nextend-nav-3272 parent  ">
+  <dl class="level2 ">
+  <dt class="level2 nextend-nav-3301 notparent   first" data-menuid="3301">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/502-bad-gateway/"><span>Troubleshooting the 502 Bad Gateway</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3301 notparent   first">
+  </dd>  <dt class="level2 nextend-nav-3276 notparent  " data-menuid="3276">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/403-forbidden/"><span>403 Forbidden</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3276 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3278 notparent   last" data-menuid="3278">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/cdn-slowness-bad-performance/"><span>CDN Slowness/Bad Performance</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3278 notparent   last">
+  </dd></dl></dd>  <dt class="level1 nextend-nav-3279 parent  " data-menuid="3279">
+    <span class="outer">
+      <span class="inner">
+        <a><span>Guides</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level1 nextend-nav-3279 parent  ">
+  <dl class="level2 ">
+  <dt class="level2 nextend-nav-3280 notparent   first" data-menuid="3280">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/visual-glossary/anycast/"><span>What is Anycast?</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3280 notparent   first">
+  </dd>  <dt class="level2 nextend-nav-3282 notparent  " data-menuid="3282">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/visual-glossary/cdn/"><span>What is a CDN?</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3282 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3283 notparent  " data-menuid="3283">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/change-credit-card-details/"><span>Change Credit Card details</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3283 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3288 notparent  " data-menuid="3288">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/custom-expiry-headers/"><span>Custom Expiry Headers</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3288 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3287 notparent  " data-menuid="3287">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/custom-error-page/"><span>Custom Error Page</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3287 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3292 notparent  " data-menuid="3292">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/enable-gzip-compression/"><span>Enable GZip Compression</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3292 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3293 notparent  " data-menuid="3293">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/enable-spdy/"><span>Enable SPDY</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3293 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3294 notparent  " data-menuid="3294">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/two-factor-authentication/"><span>Enabling Two-Factor Authentication</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3294 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3295 notparent  " data-menuid="3295">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/enabling-more-cdn-locations/"><span>Enabling More Locations</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3295 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3296 notparent  " data-menuid="3296">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/fix-broken-ca-chain/"><span>Fix broken CA chain</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3296 notparent  ">
+  </dd>  <dt class="level2 nextend-nav-3300 notparent   last" data-menuid="3300">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/tutorial/use-seo-with-cdn/"><span>Use SEO with CDN</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level2 nextend-nav-3300 notparent   last">
+  </dd></dl></dd>  <dt class="level1 nextend-nav-3239 notparent  " data-menuid="3239">
+    <span class="outer">
+      <span class="inner">
+        <a target="_blank" href="https://docs.maxcdn.com/"><span>API</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level1 nextend-nav-3239 notparent  ">
+  </dd>  <dt class="level1 nextend-nav-3256 notparent  " data-menuid="3256">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/developer/"><span>Developer</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level1 nextend-nav-3256 notparent  ">
+  </dd>  <dt class="level1 nextend-nav-3255 notparent opened active last" data-menuid="3255">
+    <span class="outer">
+      <span class="inner">
+        <a  href="https://www.maxcdn.com/one/visual-glossary/"><span>Visual Glossary</span></a>      </span>
+    </span>
+  </dt>
+  <dd class="level1 nextend-nav-3255 notparent opened active last">
+  </dd>    </dl>
+    </div>
+  </div>
+</div>
+
+	
+</div>
+</div></div>
+		</div></section><div class="padded-page-content">
+
+    <div class="row margin-top-large">
+                <p class="h2 margin-bottom-small"><a class="plain-text-link black" href="https://www.maxcdn.com/one/visual-glossary/" alt="MaxCDN ONE Visual Glossary Articles">Visual Glossary</a></p>
+    </div>
+
+    <div class="article-box tutorial">
+                <div class="row no-margin-bottom">
+            <div class="l-grid-2 m-grid-3 s-grid-12">&nbsp;</div>
+            <div class="l-grid-10 m-grid-9 s-grid12 content-column"><h1 class="">What is Static Content?</h1></div>
+        </div>
+        <div class="no-overflow row">
+            <div class="l-grid-2 m-grid-3 s-grid-12">
+                <div class="article-info">
+                    <p class="author-name">Robert Gibb</p>
+                    <p class="timestamp">April 27, 2016</p>
+                </div>
+                <div class="edited-date">
+                    <p class="no-bottom-margin">Updated</p>
+                    <p >May 13, 2016</p>
+                </div>
+            </div>
+            <div class="l-grid-10 m-grid-9 s-grid-12 content-column post-content">
+                <div class="vg-header">
+<p>Definition</p>
+</div>
+<p>Static content is any content that can be delivered to an end user without having to be generated, modified, or processed. The server delivers the same file to each user, making static content one of the simplest and most efficient content types to transmit over the Internet.</p>
+<p><img src="https://www.maxcdn.com/one/media/static-content.png" alt="Diagram of how static content works"></p>
+<div class="vg-header">
+<h2>Overview</h2>
+</div>
+<p>Most modern websites are always changing. Websites frequently adapt their layout, content, and available features based on who accesses it. In many cases, a website will deliver entirely different content to one user than another user, even if their requests are less than a second apart. This content is known as dynamic content, since it can change on a per-request basis.</p>
+<p>Static content, on the other hand, rarely changes. It doesn&#8217;t depend on user input or preferences. While static content is less interactive than dynamic content, it&#8217;s generally faster to cache, process, and deliver.</p>
+<div class="vg-header">
+<h2>How Static Content Works</h2>
+</div>
+<p>Fetching a static asset from a server is one of the basic functions of the web. For example, typing the following URL in a web browser (<em>http://www.example.com/index.html</em>) fetches the file <em>index.html</em> from the server hosting <em>example.com</em>. </p>
+<p>There are three steps to requesting static content from a server:</p>
+<ol>
+<li>A user sends a request for a file to the web server.</li>
+<li>The web server retrieves the file from disk.</li>
+<li>The web server sends the file to the user.</li>
+</ol>
+<p>Any kind of file can be served as static content as long as it does not change in response to a user&#8217;s actions or inputs. This includes images, JavaScript files, CSS files, videos, Flash files, even web pages.</p>
+<div class="vg-header">
+<h2>Benefits of Static Content</h2>
+</div>
+<p>This section isn&#8217;t meant to promote static over dynamic content. Almost every website uses a mix of content types to provide a balance between speed and interactivity. However, there are some clear benefits to hosting static content:</p>
+<ul>
+<li><strong>Static content does not change.</strong> Once a static file is uploaded to a server, it does not change until you replace it with another file. In the meantime, users who return to your website will see exactly the same content.</li>
+<li><strong>Static content is easier to cache.</strong> Although there are tricks to caching dynamic content, it often can&#8217;t be cached effectively because it&#8217;s hard to predict when it&#8217;s needed. Since static content is the same for all users, it can be cached very easily.</li>
+<li><strong>Static content is less power-hungry.</strong> Dynamic websites contain layers of application logic that run before the user receives a response. Static websites only need to pull files from the disk. Additionally, techniques such as compression only need to be applied once to static content, making it very resource-efficient.</li>
+</ul>
+<div class="vg-header">
+<h2>Conclusion</h2>
+</div>
+<p>While static websites drove the initial growth of the web, most of today&#8217;s websites are dynamic, user-driven applications. Although the days of the early web are over, some web services are working to merge the performance gains of static websites with the usability of modern web platforms. </p>
+<p><a href="https://www.staticgen.com/" target="_blank">StaticGen</a> provides a leaderboard of website generators that build static websites from dynamic content. Meanwhile, platforms like WordPress support static content generation through plugins like the <a href="https://wordpress.org/plugins/wp-super-cache/" target="_blank">WP Super Cache plugin</a>. It&#8217;s unlikely we&#8217;ll revert back to static web pages, but we can take advantage of the speed and simplicity of static content to boost the modern web.</p>
+                <div class="sharing-popup-holder">
+                    <div class="sharing-popup">
+                        <div class="section twitter"><a href="" target="_blank"><i class="fa fa-twitter"></i></a></div>
+                    </div>
+                </div>
+                <div class="find-more-content">
+                    
+                                        </div>
+                <div class="comments">
+                     <!-- Comments section -->
+                    <div class="post-comments margin-bottom-medium margin-top-medium">
+                    <style>.nocomments{display: none;}</style>
+                        
+<div id="disqus_thread"></div>
+                    </div><!-- .post-comments -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="margin-bottom-large"></div>
+</div>
+  <div class="scroll-button-holder">
+    <button class="margin-right-small width105" id="go-to-top-link">Scroll to Top</button>
+    <!-- <button id="go-to-feedback-link">Feedback</button> -->
+</div>
+        <footer>
+            <div class="row">
+                <ul class="inline-list footer-list">
+                    <li><a href="https://www.maxcdn.com">MaxCDN.com</a></li>
+                    <li>
+                        <a href="#">+ Company</a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a href="https://www.maxcdn.com/customers/">Customers</a>
+                            </li>
+                            <li>
+                                <a href="https://www.maxcdn.com/legal/">Legal</a>
+                            </li>
+                            <li>
+                                <a href="https://www.maxcdn.com/security/">Security</a>
+                            </li>
+                            <li>
+                                <a href="https://www.maxcdn.com/affiliates/">Affiliates</a>
+                            </li>
+                            <li>
+                                <a href="https://www.maxcdn.com/team/">Team</a>
+                            </li>
+                            <li>
+                                <a href="https://www.maxcdn.com/open-source/">Open Source</a>
+                            </li>
+                            <li>
+                                <a href="https://www.maxcdn.com/careers/">Careers</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="https://www.maxcdn.com/blog/">Blog</a></li>
+                </ul>
+            </div>
+        </footer>
+
+<div id="search-result-holder" class="popup hidden">
+  <div class="modal">
+    <section class="row full-width no-bottom-margin">
+      <div class="close-button"><span>&times;</span></div>
+    </section>
+    <section class="row full-width">
+      <h2 class="text-center">Search Results</h2>
+      <form class="error-search-form margin-top-small">
+        <input id="swiftype-search-input" type="text"/><i id="search-input-icon" class="fa fa-search"></i>
+      </form>
+    </section>
+    <div id="segmented-container"></div>
+    <div id="st-results-container"></div>
+  </div>
+</div>
+
+<!-- <script type="text/javascript" src="https://www.maxcdn.com/one/wp-content/themes/maxcdn_one/assets/js/frontend.js"></script> -->
+<script type="text/javascript" src="https://www.maxcdn.com/one/wp-content/themes/maxcdn_one/assets/js/frontend.js"></script>
+<script type="text/javascript" src="https://www.maxcdn.com/one/wp-content/themes/maxcdn_one/assets/js/chat.js"></script>
+
+<!-- Bizible -->
+<script async type='text/javascript' src='https://cdn.bizible.com/_biz-a.js' ></script>
+
+<!-- Qualaroo for maxcdn.com -->
+<script type="text/javascript">
+  var _kiq = _kiq || [];
+  (function(){
+    setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+    s.async = true; s.src = '//s3.amazonaws.com/ki.js/47156/9wf.js'; f.parentNode.insertBefore(s, f);
+    }, 1);
+  })();
+</script>
+
+<!-- Adroll Code -->
+<script>adroll_adv_id="47MCAJXXORCV7FEWTHKTP2";adroll_pix_id="YJWIKEGC5VHUNETP435HGO";(function(){var e=window.onload;window.onload=function(){__adroll_loaded=true;var t=document.createElement("script");var n="https:"==document.location.protocol?"https://s.adroll.com":"http://a.adroll.com";t.setAttribute("async","true");t.type="text/javascript";t.src=n+"/j/roundtrip.js";((document.getElementsByTagName("head")||[null])[0]||document.getElementsByTagName("script")[0].parentNode).appendChild(t);if(e){e()}}})()</script>
+
+<!-- Google Analytics -->
+<script>var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-11020602-1"]);_gaq.push(["_setDomainName","maxcdn.com"]);_gaq.push(["_setAllowLinker",true]);_gaq.push(["_trackPageview"]);(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()</script>
+
+<!-- HubSpot Analytics Code -->
+<script type="text/javascript">
+	(function(d,s,i,r) {
+	if (d.getElementById(i)){return;}
+	var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+	n.id=i;n.src='https://www.maxcdn.com/one//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/177409.js';
+	e.parentNode.insertBefore(n, e);
+	})(document,"script","hs-analytics",300000);
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"maxcdnone"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.maxcdn.com/one/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.15"},"disqusIdentifier":"3511 http:\/\/maxcdn4support.wpengine.com\/?p=3511","disqusShortname":"maxcdnone","disqusTitle":"What is Static Content?","disqusUrl":"https:\/\/maxcdn4support.wpengine.com\/visual-glossary\/static-content\/","postId":"3511"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.maxcdn.com/one/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.15'></script>
+<script type='text/javascript' src='https://www.maxcdn.com/one/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+<script type="text/javascript" src="https://www.maxcdn.com/one/wp-content/cache/js/static/af49e4ef0bb6f49f933a6fc6ad049708.js"></script></body>
+</html>
+
+<script type="text/javascript" src="https://www.maxcdn.com/one/wp-content/cache/js/static/af49e4ef0bb6f49f933a6fc6ad049708.js"></script></body>
+</html>

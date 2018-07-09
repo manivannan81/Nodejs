@@ -1,0 +1,20 @@
+
+<html>
+    <head>
+        <title>
+            <link rel="stylesheet" href="/assets/styles.css" type="text/css" />
+                </title>
+    </head>
+    <body>
+        <% include partial/nav.ejs %> 
+<h1>The list are</h1>
+<ul>
+<% Arr.forEach(function(item) 
+{ %>
+    <li><%=item %></li>
+</ul>
+<%}); %>
+    </body>
+</html>
+
+
